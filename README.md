@@ -11,10 +11,3 @@
 | Single-digit | Sub-zero | Double-digit |
 | --- | --- | --- |
 | <img src="https://user-images.githubusercontent.com/93939472/219828937-8d91ab38-15e7-4138-b7a5-e3af787ae75f.png" width="198"> | <img src="https://user-images.githubusercontent.com/93939472/219828938-52708483-a029-4fd5-bf66-d004dc68098f.png" width="198"> | <img src="https://user-images.githubusercontent.com/93939472/219828940-51de77b1-a6ee-4d60-952d-97b64499daaf.png" width="198"> |
-<!-- 
-| ![single-digit](https://user-images.githubusercontent.com/93939472/219828937-8d91ab38-15e7-4138-b7a5-e3af787ae75f.png) | ![sub-zero](https://user-images.githubusercontent.com/93939472/219828938-52708483-a029-4fd5-bf66-d004dc68098f.png) | ![double-digit](https://user-images.githubusercontent.com/93939472/219828940-51de77b1-a6ee-4d60-952d-97b64499daaf.png) |
-
-
-
-
- -->
